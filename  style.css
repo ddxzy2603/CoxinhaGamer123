@@ -3,4 +3,8 @@ body{
 }
 h1{
     color: crimson;
+    font-style:italic;
+}
+.carros{
+    width: 30%;
 }
