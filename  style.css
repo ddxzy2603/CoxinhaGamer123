@@ -4,7 +4,8 @@ body{
 h1{
     color: crimson;
     font-style:italic;
+    text-align: center;
 }
 .carros{
-    width:30%;
+    width:0%;
 }
