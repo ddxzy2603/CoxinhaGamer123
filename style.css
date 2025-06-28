@@ -4,7 +4,7 @@ body{
     font-family: 'Roboto', sans-serif;
     color: white;
 }
-.texto-centralizado{
+.texto-centralizado,li{
     text-align: center;
 }
 h1,h2,h3{
