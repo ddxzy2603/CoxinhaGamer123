@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap');
 body{
-    background-color:black;
+    background-color: #424242;
     font-family: 'Roboto', sans-serif;
     color: white;
 }
@@ -10,11 +10,8 @@ body{
 h1,h2{
     font-family: 'Anton', sans-serif;
 }
-header{
-    background-color: red;
+header,footer{
+    background-color: darkgrey;
     text-align:center;
     padding: 10px;
-}
-.pe{
-    background-color: aqua;
 }
