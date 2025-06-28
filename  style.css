@@ -11,7 +11,7 @@ h1,h2{
     font-family: 'Anton', sans-serif;
 }
 header, footer{
-    background-color: darkgrey;
+    background-color: red;
     text-align:center;
     padding: 10;
 }
