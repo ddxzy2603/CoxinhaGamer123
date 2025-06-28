@@ -15,9 +15,10 @@ header{
     text-align:center;
     padding: 10px;
 }
-li{
-    text-align:center;
-}
 img{
     width:50%;
+}
+.lista{
+    text-align: center;
+    color:white
 }
