@@ -15,5 +15,6 @@ h1,h2{
     text-align: center;
 }
 header{
-    background-color: gray;
+    color: gray;
+    text-align: center;
 }
