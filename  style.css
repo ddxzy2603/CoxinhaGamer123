@@ -6,6 +6,8 @@ body{
 }
 .texto-centralizado{
     text-align: center;
+}
+h1,h2{
     font-family: 'Anton', sans-serif;
 }
 img{
