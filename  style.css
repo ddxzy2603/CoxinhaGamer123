@@ -12,8 +12,7 @@ h1,h2{
 }
 .container{
     width: 30%;
-    display: block;
-    margin:0 auto;
+    text-align: center;
 }
 header{
     background-color: gray;
