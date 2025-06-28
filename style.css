@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap');
+body{
+    background-color:#595858;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.texto-centralizado{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
