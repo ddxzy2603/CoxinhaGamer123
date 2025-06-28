@@ -10,8 +10,8 @@ body{
 h1,h2{
     font-family: 'Anton', sans-serif;
 }
-img{
-    height: 30%;
+.container{
+    width: 30%;
     display: block;
     margin:0 auto;
 }
