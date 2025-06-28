@@ -8,9 +8,10 @@ body{
     text-align: center;
     font-family: 'Anton', sans-serif;
 }
-.imagens{
+img{
     height: 30%;
-    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 header{
     background-color: gray;
