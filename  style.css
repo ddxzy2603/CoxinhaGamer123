@@ -10,10 +10,6 @@ body{
 h1,h2{
     font-family: 'Anton', sans-serif;
 }
-.container{
-    width: 30%;
-    text-align: center;
-}
 header{
     color: gray;
     text-align: center;
