@@ -9,3 +9,8 @@ h3,p{
     font-family: 'Anton' sans-serif;
     text-align: center;
 }
+header{
+    background-color: rgb(128, 128, 128);
+    text-align:center;
+    padding: 10px;
+}
