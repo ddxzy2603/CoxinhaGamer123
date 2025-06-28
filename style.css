@@ -10,8 +10,8 @@ body{
 h1,h2{
     font-family: 'Anton', sans-serif;
 }
-header,footer{
-    background-color: darkgrey;
+header{
+    background-color: rgb(128, 128, 128);
     text-align:center;
     padding: 10px;
 }
