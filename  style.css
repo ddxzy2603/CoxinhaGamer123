@@ -2,13 +2,9 @@
 body{
     background-color:#595858;
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
-h1,h2,h3{
+.texto-centralizado{
     text-align: center;
     font-family: 'Anton', sans-serif;
-    color: white;
-}
-p{
-    text-align: center;
-    color: white;
 }
