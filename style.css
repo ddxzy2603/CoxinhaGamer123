@@ -3,14 +3,12 @@ body{
     background-color: #424242;
     font-family: 'Roboto', sans-serif;
     color: white;
-    font-size: 8px;
 }
 .texto-centralizado{
     text-align: center;
 }
 h1,h2,h3{
     font-family: 'Anton', sans-serif;
-    font-size: 16px;
 }
 header{
     background-color: rgb(128, 128, 128);
