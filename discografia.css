@@ -4,7 +4,7 @@ body{
     text-align: center;
     font-family:'Roboto' sans-serif;
 }
-h2,p,li{
+h2{
     color: white;
     font-family: 'Anton' sans-serif;
     text-align: center;
@@ -16,4 +16,8 @@ header{
 }
 img{
     width:40%;
+}
+p,li{
+    color: white;
+    text-align: center;
 }
