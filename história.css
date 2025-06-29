@@ -17,3 +17,7 @@ header,footer{
 p{
     color: white;
 }
+a{
+    color:grey;
+    text-decoration: white;
+}

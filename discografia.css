@@ -21,3 +21,7 @@ p,li{
     color: white;
     text-align: center;
 }
+a{
+    color: grey;
+    text-decoration: white;
+}
